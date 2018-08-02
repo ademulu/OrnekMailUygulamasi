@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Ornek Mail Uygulamasi</string>
+
+    <string-array name="mail_liste">
+        <item>1. mail</item>
+        <item>2. mail</item>
+        <item>3. mail</item>
+        <item>4. mail</item>
+    </string-array>
+
+    <string-array name="mail_icerik">
+        <item>1. mail içeriği</item>
+        <item>2. mail içeriği</item>
+        <item>3. mail içeriği</item>
+        <item>Lorem Ipsum, dizgi ve baskı endüstrisinde
+            kullanılan mıgır metinlerdir. Lorem Ipsum,
+            adı bilinmeyen bir matbaacının bir hurufat
+            numune kitabı oluşturmak üzere bir yazı
+            galerisini alarak karıştırdığı 1500\'lerden beri
+            endüstri standardı sahte metinler olarak
+            kullanılmıştır. Beşyüz yıl boyunca varlığını
+            sürdürmekle kalmamış, aynı zamanda pek değişmeden
+            elektronik dizgiye de sıçramıştır.
+            1960\'larda Lorem Ipsum pasajları da içeren
+            Letraset yapraklarının yayınlanması ile ve
+            yakın zamanda Aldus PageMaker gibi Lorem
+            Ipsum sürümleri içeren masaüstü yayıncılık
+            yazılımları ile popüler olmuştur.</item>
+    </string-array>
+</resources>
